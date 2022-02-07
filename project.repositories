@@ -13,6 +13,14 @@
       <metadata>
         <id>rhpam</id>
         <url>https://repo.repsy.io/mvn/dmartino/rhpam</url>
+        <source>DISTRIBUTION_MANAGEMENT</source>
+      </metadata>
+    </repository>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>rhpam</id>
+        <url>https://repo.repsy.io/mvn/dmartino/rhpam</url>
         <source>SETTINGS</source>
       </metadata>
     </repository>
