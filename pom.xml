@@ -56,4 +56,10 @@
       </plugin>
     </plugins>
   </build>
+            <distributionManagement>
+                <repository>
+                    <id>rhpam</id>
+                    <url>https://repo.repsy.io/mvn/dmartino/rhpam</url>
+                </repository>
+            </distributionManagement>
 </project>
